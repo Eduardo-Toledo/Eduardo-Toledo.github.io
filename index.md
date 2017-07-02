@@ -1,5 +1,5 @@
 
-###Eduardo Toledo
+### Author:Eduardo Toledo
 
 ## Introduction
 Puzzler aplication is a simple VR mobile that shows the complete process of design and implmenmtation of a VR from early stages.
@@ -19,17 +19,19 @@ The target is any tech lover  who wants to be embeded in this fascinating world 
 
 ## Profiles of my testing users
 
-User 1: My wife of almost 35 years old.
-
-User 2: My daughte of 7 years old.
+- User 1: My wife of almost 35 years old.
+- User 2: My daughte of 7 years old.
 
 
 ## Story of Iterative Process
 By  doing a work breakdow,  the process was made up by:
--Atmosphere design  One iteration into the process to achive the final result.
--User Interface Sketches
--Motion Implementation
--Final App: Game mechanish plus Audio
+
+```markdown
+- Atmosphere design  One iteration into the process to achive the final result.
+- User Interface Sketches.
+- Motion Implementation.
+- Final App: Game mechanish plus Audio.
+```
 
 ### Atmosphere Design
 The idea is to create a mistery atmosphere thorugh a semi-dark and abandoned room.
@@ -40,10 +42,10 @@ The idea is to create a mistery atmosphere thorugh a semi-dark and abandoned roo
 #### Atmosphere Design - Results of User Testing (Feedback) on Iteration 1
 
 #####  User 1
--Scale and Space is appropiate
--Lightning offers a atmposphere of mystery
--The light of tor should be with less bright
--The light of orbs should be more bright
+- Scale and Space is appropiate
+- Lightning offers a atmposphere of mystery
+- The light of tor should be with less bright
+- The light of orbs should be more bright
 
 #### Atmosphere Design - Final Result after changes proposed by Testing Users
 ![Image](https://eduardo-toledo.github.io/Early%20Design%20-%20Iteration%202%20-%20Unity.png)
