@@ -1,5 +1,5 @@
 
-###Author: Eduardo Toledo
+###Eduardo Toledo
 
 ## Introduction
 Puzzler aplication is a simple VR mobile that shows the complete process of design and implmenmtation of a VR from early stages.
@@ -25,7 +25,11 @@ User 2: My daughte of 7 years old.
 
 
 ## Story of Iterative Process
-
+By  doing a work breakdow,  the process was made up by:
+-Atmosphere design  One iteration into the process to achive the final result.
+-User Interface Sketches
+-Motion Implementation
+-Final App: Game mechanish plus Audio
 
 ### Atmosphere Design
 The idea is to create a mistery atmosphere thorugh a semi-dark and abandoned room.
