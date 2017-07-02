@@ -17,7 +17,39 @@ The target is any tech lover  who wants to be embeded in this fascinating world 
 - Game mechanism is based on the popular game "Simon says".
 - Documentation about all entire process carried out from early stages until final solution.
 
+### Profiles of my testing users
+User 1: My wife of almost 35 years old.
+User 2: My daughte of 7 years old.
+
+
+### Iterative process
+
+#### Atmosphere Design
+The idea is to create a mistery atmosphere thorugh a semi-dark and abandoned room.
+
+##### Atmosphere Design - Iteration Number 1 
 ![Image](https://eduardo-toledo.github.io/UI%20sketches.jpg)
+
+##### Atmosphere Design - Results of User Testing (Feedback)
+######  User 1
+-Scale and Space is appropiate
+-Lightning offers a atmposphere of mystery
+-The light of tor should be with less bright
+-The light of orbs should be more bright
+
+######  User 2
+  
+-Scale and Space is appropiate
+-There is a mistery atmosphere
+-The camera is a bit far of the orbs
+![Image](https://eduardo-toledo.github.io/UI%20sketches.jpg)
+
+#### Atmosphere Design
+![Image](https://eduardo-toledo.github.io/Early%20Design%20-%20Iteration%201%20-%20Unity.png)
+
+#### UI Sketches
+![Image](https://eduardo-toledo.github.io/UI%20sketches.jpg)
+
 
 
 You can use the [editor on GitHub](https://github.com/Eduardo-Toledo/Eduardo-Toledo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
