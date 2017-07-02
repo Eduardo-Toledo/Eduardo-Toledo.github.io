@@ -49,6 +49,9 @@ At the beginning of the game, the app offers a welcome screen and invites to pla
 
 
 #### Motion  Design
+
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+
 You can use the [editor on GitHub](https://github.com/Eduardo-Toledo/Eduardo-Toledo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
