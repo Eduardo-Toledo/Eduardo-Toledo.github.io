@@ -19,8 +19,8 @@ The target is any tech lover  who wants to be embeded in this fascinating world 
 
 ## 5. Profiles of my testing users
 
-- User 1: My wife of almost 35 years old.
-- User 2: My daughte of 7 years old.
+- User 1: My wife of almost 35 years old (Adult)
+- User 2: My daughte of 7 years old(Kids).
 
 
 ## 6. Story of Iterative Process
@@ -29,6 +29,7 @@ By  doing a work breakdow,  the process was made up by:
 ```markdown
 - Atmosphere design  One iteration into the process to achive the final result.
 - User Interface Sketches.
+- User Inteface Implementation.
 - Motion Implementation.
 - Final App: Game mechanish plus Audio.
 ```
@@ -77,7 +78,21 @@ At the beginning of the game, the app offers a welcome screen and invites to pla
 
 ### 6.4. Motion  Implementation
 
+#### 6.4.1. Iteration 1
 [![Watch the video](https://eduardo-toledo.github.io/video.png)](https://youtu.be/vaffjoJHurw)
+
+#### 6.4.2. Motion Implementation Feedback User
+
+##### User 1 
+
+- The movement is too slow
+- When the player moves toward the screen of restart, the player is crossing throug the walls.
+- This user presented some symptoms of motion sickness
+
+##### User 2 
+
+- The movement pace  is confortable.
+- She does not like the player crosses the wall to reach the screen of Restart.
 
 You can use the [editor on GitHub](https://github.com/Eduardo-Toledo/Eduardo-Toledo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
