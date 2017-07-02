@@ -1,29 +1,29 @@
 
 ### Author:Eduardo Toledo
 
-## Introduction
+## 1.Introduction
 Puzzler aplication is a simple VR mobile that shows the complete process of design and implmenmtation of a VR from early stages.
 
-## Audience
+## 2.Audience
 The target is any tech lover  who wants to be embeded in this fascinating world of VR
 
-## Objectives
+## 3.Objectives
 - For VR lovers, start a VR project from scratch
 - Focus on the iterative process of any cycle of life of any VR project.
 - User feedback is as important as good practices of development.
 
-## Deliverables
+## 4.Deliverables
 - Mobile app that is visualized through Google Cardboard
 - Game mechanism is based on the popular game "Simon says".
 - Documentation about all entire process carried out from early stages until final solution.
 
-## Profiles of my testing users
+## 5.Profiles of my testing users
 
 - User 1: My wife of almost 35 years old.
 - User 2: My daughte of 7 years old.
 
 
-## Story of Iterative Process
+## 6.Story of Iterative Process
 By  doing a work breakdow,  the process was made up by:
 
 ```markdown
@@ -33,31 +33,37 @@ By  doing a work breakdow,  the process was made up by:
 - Final App: Game mechanish plus Audio.
 ```
 
-### Atmosphere Design
+### 6.1. Atmosphere Design
 The idea is to create a mistery atmosphere thorugh a semi-dark and abandoned room.
 
-#### Atmosphere Design - Iteration Number 1 
+#### 6.1.1.Atmosphere Design - Iteration Number 1 
 ![Image](https://eduardo-toledo.github.io/Early%20Design%20-%20Iteration%201%20-%20Unity.png)
 
-#### Atmosphere Design - Results of User Testing (Feedback) on Iteration 1
+#### 6.1.2.Atmosphere Design - Results of User Testing (Feedback) on Iteration 1
 
-#####  User 1
+##### User 1
 - Scale and Space is appropiate
 - Lightning offers a atmposphere of mystery
 - The light of tor should be with less bright
 - The light of orbs should be more bright
 
-#### Atmosphere Design - Final Result after changes proposed by Testing Users
+##### User 2:
+
+Scale and Space is appropiate
+There is a mistery atmosphere
+The camera is a bit far of the orbs
+
+#### 6.1.3.Atmosphere Design - Final Result after changes proposed by Testing Users
 ![Image](https://eduardo-toledo.github.io/Early%20Design%20-%20Iteration%202%20-%20Unity.png)
 
 
-### User Interface (UI) Sketches
+### 6.2.User Interface (UI) Sketches
 At the beginning of the game, the app offers a welcome screen and invites to play by hitting Play button. Once the game finishes , the app informs to the player through a congratulations screen that he/she won. 
 
 ![Image](https://eduardo-toledo.github.io/UI%20sketches.jpg)
 
 
-### Motion  Design
+### 6.3.Motion  Design
 
 [![Watch the video](https://eduardo-toledo.github.io/video.png)](https://youtu.be/vaffjoJHurw)
 
