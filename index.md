@@ -71,6 +71,7 @@ At the beginning of the game, the app offers a welcome screen and invites to pla
 
 #### 6.3.2 User Interface Feedback User
 
+
 ##### User 1
 
 - The size is appropiate.
@@ -82,6 +83,7 @@ At the beginning of the game, the app offers a welcome screen and invites to pla
 [![Watch the video](https://eduardo-toledo.github.io/video.png)](https://youtu.be/vaffjoJHurw)
 
 #### 6.4.2. Motion Implementation Feedback User
+
 
 ##### User 1 
 
