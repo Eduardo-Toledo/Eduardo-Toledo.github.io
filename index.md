@@ -1,4 +1,21 @@
-## Welcome to GitHub Pages
+## A Puzzler: Breaking the myth of VR
+
+### Introduction
+Puzzler aplication is a simple VR mobile that shows the complete process of design and implmenmtation of a VR from early stages.
+
+### Audience
+The target is any tech lover  who wants to be embeded in this fascinating world of VR
+
+### Objectives
+- For VR lovers, start a VR project from scratch
+- Focus on the iterative process of any cycle of life of any VR project.
+- User feedback is as important as good practices of development.
+
+### Deliverables
+- Mobile app that is visualized through Google Cardboard
+- Game mechanism is based on the popular game "Simon says".
+- Documentation about all entire process carried out from early stages until final solution.
+
 
 You can use the [editor on GitHub](https://github.com/Eduardo-Toledo/Eduardo-Toledo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
