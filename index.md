@@ -62,8 +62,11 @@ At the beginning of the game, the app offers a welcome screen and invites to pla
 
 ![Image](https://eduardo-toledo.github.io/UI%20sketches.jpg)
 
+### 6.3. User Interface  Implementation
+#### 6.3.1 Iteration 1
+![Image](https://eduardo-toledo.github.io/Early%20Design%20-%20Iteration%202%20-%20Unity.png)
 
-### 6.3. Motion  Implementation
+### 6.4. Motion  Implementation
 
 [![Watch the video](https://eduardo-toledo.github.io/video.png)](https://youtu.be/vaffjoJHurw)
 
