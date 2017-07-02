@@ -22,36 +22,33 @@ User 1: My wife of almost 35 years old.
 User 2: My daughte of 7 years old.
 
 
-### Iterative process
-
+### Story of Iterative Process
+###
+###
 #### Atmosphere Design
 The idea is to create a mistery atmosphere thorugh a semi-dark and abandoned room.
 
 ##### Atmosphere Design - Iteration Number 1 
-![Image](https://eduardo-toledo.github.io/UI%20sketches.jpg)
+![Image](https://eduardo-toledo.github.io/Early%20Design%20-%20Iteration%201%20-%20Unity.png)
 
-##### Atmosphere Design - Results of User Testing (Feedback)
+##### Atmosphere Design - Results of User Testing (Feedback) on Iteration 1
 ######  User 1
 -Scale and Space is appropiate
 -Lightning offers a atmposphere of mystery
 -The light of tor should be with less bright
 -The light of orbs should be more bright
 
-######  User 2
-  
--Scale and Space is appropiate
--There is a mistery atmosphere
--The camera is a bit far of the orbs
-![Image](https://eduardo-toledo.github.io/UI%20sketches.jpg)
+##### Atmosphere Design - Final Result after changes proposed by Testing Users
+![Image](https://eduardo-toledo.github.io/Early%20Design%20-%20Iteration%202%20-%20Unity.png)
 
-#### Atmosphere Design
-![Image](https://eduardo-toledo.github.io/Early%20Design%20-%20Iteration%201%20-%20Unity.png)
 
-#### UI Sketches
+#### User Interface (UI) Sketches
+At the beginning of the game, the app offers a welcome screen and invites to play by hitting Play button. Once the game finishes , the app informs to the player through a congratulations screen that he/she won. 
+
 ![Image](https://eduardo-toledo.github.io/UI%20sketches.jpg)
 
 
-
+#### Motion  Design
 You can use the [editor on GitHub](https://github.com/Eduardo-Toledo/Eduardo-Toledo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
