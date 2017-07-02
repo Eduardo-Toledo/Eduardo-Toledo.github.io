@@ -17,7 +17,7 @@ The target is any tech lover  who wants to be embeded in this fascinating world 
 - Game mechanism is based on the popular game "Simon says".
 - Documentation about all entire process carried out from early stages until final solution.
 
-![Image](https://github.com/Eduardo-Toledo/Eduardo-Toledo.github.io/blob/master/UI%20sketches.jpg)
+![Image](https://eduardo-toledo.github.io/UI%20sketches.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/Eduardo-Toledo/Eduardo-Toledo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
